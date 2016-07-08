@@ -1,0 +1,6 @@
+{
+  "name": "Chowhound",
+  "tagline": "故事",
+  "body": "<h1 style=\"text-align:center;\">这是一个测试页面<h1>\r\n\r\n    一个中国的小故事：很久很久以前，在中国一个叫做“南疆”的地方，出现了一群十分古怪的族群，他们喜食羊肉。。。\r\ncreate a paragraph, simply create a block of text that is not separated by one or more blank lines. Blocks of text separated by one or more blank lines will be parsed as paragraphs.\r\n\r\nIf you want to create a line break, end a line with two or more spaces, then hit Return/Enter.\r\n\r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
